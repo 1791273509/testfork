@@ -4,3 +4,4 @@
 4
 new
 remote edit
+local edit
